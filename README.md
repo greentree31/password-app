@@ -1,11 +1,8 @@
 # Password Application
 
-![password application](./assets/images/pw_image.jpg)
+![password application](./assets/images/pw_image_new.png)
 
-
-<link to the deployed app>
-
-
+https://greentree31.github.io/password-app/
 
 ## Description
 
